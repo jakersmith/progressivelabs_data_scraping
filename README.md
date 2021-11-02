@@ -1,0 +1,2 @@
+# progressivelabs_data_scraping
+This was created to pull product names and descriptions from https://www.progressivelabs.com/ and save them to a csv for import into an SQL database, and it only needed to run once. We were switching from one Electro Dermal Screening (EDS) software to another which required us to get all our product information from our vendors. Progressive Labs is one of those vendors, so I wrote this script to quickly pull all product information from their site, rather than getting it all manually.
